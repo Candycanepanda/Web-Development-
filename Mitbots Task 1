@@ -23,7 +23,7 @@ Examples:
 <nav> contains navigation links. 
 <figure>,<figcaption> for image with caption. 
 <main> wraps the main content . 
-     B. Why they are better than just using <div>? 
+B. Why they are better than just using <div>? 
 ● Provide clear meaning to the content  
 ● Easy to read and understand. 
 ● Align with modern Html version(Html 5) 
