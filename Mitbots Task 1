@@ -1,0 +1,70 @@
+_Description_:
+"This document is part of my Web Development Internship at MITBOTS and contains a foundational set of questions and answers on HTML and CSS. 
+It covers:
+Semantic HTML elements and their advantages over <div>
+The role and use of <div> in HTML structure
+Core CSS concepts including:
+Responsiveness
+Positioning (static, relative, absolute, fixed, sticky)
+Flexbox (1D layout)
+CSS Grid (2D layout)
+Flexbox vs Grid comparison
+This task demonstrates my understanding of modern front-end principles and serves as a quick-reference guide for responsive layout strategies".
+
+
+HTML: 
+1. What are Semantic Tags? 
+A. Semantic elements helps in structure the Html so that the browser, developer and 
+search engine understand the content and purpose better. 
+Examples: 
+<header> header section . 
+<footer> footer section . 
+<section> group of content. 
+<nav> contains navigation links. 
+<figure>,<figcaption> for image with caption. 
+<main> wraps the main content . 
+     B. Why they are better than just using <div>? 
+● Provide clear meaning to the content  
+● Easy to read and understand. 
+● Align with modern Html version(Html 5) 
+ 
+2. What is a <div>? Why and when do we use it? 
+    The <div>, division tag is a container used to group HTML elements , apply CSS styles or       
+javascript logic. 
+It is used when there is  no suitable semantic tag and need to structure or style a section of 
+the webpage (ie) when no Semantic tags suitable .  
+ 
+CSS: 
+1. Responsiveness in CSS 
+    Responsiveness in CSS makes websites adapt to different screen size by using media 
+queries, relative units, and flexible layouts. 
+   Example: a website that fits for all devices with different screen sizes. 
+ 
+2. Positioning in CSS. 
+    Positioning in CSS determine how an element is placed in a document / design. 
+● static (used for default) eg. Paragraph text. 
+● relative (shifts slightly) eg. Slight label shift. 
+● absolute (placed exactly inside parent) eg. drop down menu under a button. 
+● fixed (stays on screen) eg. “back to top” button. 
+● sticky (scrolls then sticks) eg. section header in long content. 
+ 
+3. Flexbox 
+    Flexbox is a 1D layout used to align and space items easily with properties like display: 
+flex, justify-content, and align-items. 
+   Example: centre elements by horizontally and vertically 
+ 
+4. CSS Grid 
+    CSS Grid is a 2D layout used for complex designs using rows and columns with display: 
+grid and grid-template. 
+    Example : web dashboard  
+    Flexbox vs Grid: Flexbox is best for simple, linear layouts. Grid is best for full-page or 
+complex designs involving both rows and columns. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
