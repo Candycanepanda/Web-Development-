@@ -57,7 +57,6 @@
   background: #e5533d;
 }
 
-/* Responsive */
 @media(max-width:768px) {
   .hero-card {
     padding: 20px;
@@ -72,3 +71,4 @@
     font-size: 1rem;
   }
 }
+
