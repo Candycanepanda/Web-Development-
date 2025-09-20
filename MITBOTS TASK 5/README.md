@@ -52,7 +52,7 @@ Responsive menu cards showing dishes.
 🔹 How to Run
 
 Clone the repository:
-git clone https://github.com/yourusername/restaurant-app.git
+git clone https://github.com/Candycanepanda/Web-Development-/tree/770a4c2cb489fa8d5c80dc390ee73660b2668ca3/MITBOTS%20TASK%205
 Navigate to the project folder:
 cd restaurant-app
 
