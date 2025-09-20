@@ -38,7 +38,7 @@
   cursor: pointer;
 }
 
-/* Responsive Styles */
+
 @media (max-width: 768px) {
   .nav {
     display: none;
@@ -62,5 +62,6 @@
 .logo {
   font-size: 22px;
   font-weight: bold;
-  color: #FFE5B4; /* Deep red to match your hero/banner */
+  color: #FFE5B4; 
 }
+
